@@ -65,7 +65,7 @@
 
 ### 🎓 Internships
 - **Teachnook** - Web Development Intern
-- **Edubot** - Software Development Intern
+- **Edubot** - Mern Stack Intern
 
 ---
 
