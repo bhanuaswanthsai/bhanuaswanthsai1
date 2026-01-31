@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bhanu Aswanth Sai
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Cloud/Devops Engineer+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Cloud-Devops Engineer+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <p align="center">
