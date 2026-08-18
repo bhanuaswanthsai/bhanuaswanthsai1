@@ -1,197 +1,238 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bhanu%20Aswanth%20Sai&fontSize=48&fontColor=00F7F7&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18&descColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=BHANU%20ASWANTH%20SAI&fontSize=42&fontColor=00F7F7&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20AI%20Systems&descAlignY=55&descSize=16&descColor=FFFFFF&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7F7&center=true&vCenter=true&width=680&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Full-Stack+MERN+Developer+%F0%9F%92%BB;Security-First+Systems+Thinker+%F0%9F%94%92;RAG+%2F+AI+Pipeline+Builder+%F0%9F%A4%96;RHCSA+Certified+%7C+Red+Hat+Containers+%E2%9C%85" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=00F7F7&center=true&vCenter=true&width=700&lines=%3E+whoami;Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;%3E+cat+skills.txt;RAG+Pipelines+%2B+MERN+%2B+Docker+%F0%9F%90%B3;%3E+status;RHCSA+Certified+%E2%9C%85+%7C+Flipkart+Grid+Semifinalist+%F0%9F%8F%86;%3E+echo+%22Building+something+new...%22" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=bhanuaswanthsai&label=Profile%20Views&color=00F7F7&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/bhanuaswanthsai?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time-brightgreen?style=for-the-badge" alt="Open to work"/>
+<img src="https://komarev.com/ghpvc/?username=bhanuaswanthsai&label=PROFILE%20VIEWS&color=00F7F7&style=for-the-badge&abbreviated=true"/>
+<img src="https://img.shields.io/github/followers/bhanuaswanthsai?label=FOLLOWERS&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-39FF14?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-## 🚀 About Me
+## 🖥️ `~/bhanu` — About Me
 
-```yaml
-name: "Gayala Bhanu Aswanth Sai"
-role: "Cloud & DevOps Engineer | Full-Stack Developer"
-education: "B.Tech CSE, SRM University AP — GPA 8.83/10.0 (Class of 2027)"
-focus: ["Cloud-Native Deployment", "Security-First Systems", "AI/RAG Pipelines", "Real-Time Apps"]
-currently_building: "Scalable, secure, containerized systems on AWS"
-currently_learning: ["Advanced Kubernetes", "Cloud Security Architecture"]
-fun_fact: "Semifinalist among 50,000+ at Flipkart Grid 7.0 🏆"
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```python
+class Bhanu:
+    def __init__(self):
+        self.role = "Cloud & DevOps Engineer | Full-Stack Developer"
+        self.education = "B.Tech CSE @ SRM University AP — GPA 8.83/10"
+        self.graduating = "2027"
+        self.focus = [
+            "Cloud-native deployment",
+            "Security-first systems",
+            "AI / RAG pipelines",
+            "Real-time architectures",
+        ]
+        self.currently_learning = ["Kubernetes at scale", "Cloud security"]
+
+    def say_hi(self):
+        print("Let's build something reliable, secure, and fast 🚀")
+
+me = Bhanu()
+me.say_hi()
 ```
 
-- 🎓 Final-year **B.Tech in Computer Science & Engineering** @ SRM University AP
-- ☁️ Building resilient, cloud-native systems with a **security-first** approach
-- 🐳 Docker · CI/CD · NGINX reverse-proxy hardening · Linux system administration
-- 🤖 Shipping AI-driven products with **RAG pipelines**, Pinecone, and Gemini API
-- 💼 2 internships completed — **Edubot Technologies** (MERN) & **Teachnook** (Web Dev)
-- 🏆 Flipkart Grid 7.0 Semifinalist · Odoo × Amalthea Hackathon Finalist (IIT Gandhinagar)
+</td>
+<td width="40%" valign="top">
+
+<img src="https://raw.githubusercontent.com/aryanmn07/aryanmn07/main/coding.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+- ☁️ Building resilient, cloud-native systems — **security-first**, always
+- 🐳 Docker · CI/CD · NGINX hardening · Linux administration
+- 🤖 Shipping **RAG-powered AI products** with Pinecone + Gemini API
+- 💼 2 internships done — **Edubot Technologies** (MERN) & **Teachnook** (Web Dev)
 - 📜 **RHCSA (EX200)** & **Red Hat Containers** certified
 
----
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-## 🛠️ Tech Stack
+## 🏆 Wins on the Board
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="25%">
 
-**Frameworks & Libraries**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+### 🥈
+**Flipkart Grid 7.0**
+<br/>Semifinalist
+<br/><sub>among 50,000+ participants</sub>
 
-**Cloud & DevOps**
-<br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</td>
+<td align="center" width="25%">
 
-**AI & Databases**
-<br/>
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+### 🥇
+**Odoo × Amalthea**
+<br/>Hackathon Finalist
+<br/><sub>IIT Gandhinagar, 3,000+ teams</sub>
 
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</td>
+<td align="center" width="25%">
+
+### 📜
+**RHCSA (EX200)**
+<br/>Red Hat Certified
+<br/><sub>+ Red Hat Containers</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 💯
+**300+ DSA**
+<br/>Problems Solved
+<br/><sub>GeeksforGeeks + LeetCode</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-## 🔥 Featured Projects
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,mongodb,mysql,docker,kubernetes,nginx,jenkins,aws,linux,git,github,vscode,postman&theme=dark&perline=10" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone%20Vector%20DB-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+## 🔥 Featured Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧠 [QuizCraft AI](https://github.com/bhanuaswanthsai/Quizcraft-ai)
-**AI-powered quiz platform with a RAG pipeline**
+**AI quiz platform, powered by a RAG pipeline**
 
-Users upload PDF notes → chunked & embedded via Gemini `text-embedding-004` into a **Pinecone** vector index (768-dim, cosine) → contextual MCQs generated from their own content.
+PDF notes → chunked → embedded via Gemini `text-embedding-004` → **Pinecone** (768-dim, cosine) → contextual MCQs generated on the fly.
 
-- ⚡ Real-time multiplayer rooms for up to **50 players** via Socket.IO
-- 🔄 Server-synced 15-second timers + live leaderboards
-- 🐳 CI/CD via GitHub Actions with Docker containerization
+```
+⚡ Real-time multiplayer — up to 50 players
+🔄 Server-synced 15s timers + live leaderboards
+🐳 CI/CD via GitHub Actions + Docker
+```
 
-`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Gemini API` `Pinecone` `Docker`
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Gemini` `Pinecone` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 [DrawSync — Collaborative Whiteboard](https://github.com/bhanuaswanthsai/White_board_sharing)
-**Real-time multi-user whiteboard**
+### 🎨 [DrawSync](https://github.com/bhanuaswanthsai/White_board_sharing)
+**Real-time collaborative whiteboard**
 
-Multi-user simultaneous drawing, shape tools, and freehand sketching — synchronized across sessions with **sub-100ms latency**.
+Multi-user simultaneous drawing, shape tools, freehand sketching — synced with **sub-100ms latency**.
 
-- 🐳 Full MERN stack containerized with Docker
-- 💾 Room-based sessions with MongoDB persistence
-- 🔗 Rejoin & continue active boards via shared room codes
+```
+🐳 Full MERN stack, containerized
+💾 Room-based sessions, MongoDB persistence
+🔗 Rejoin active boards via shared room codes
+```
 
 `React` `Node.js` `Express` `MongoDB` `Socket.IO` `Docker`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" width="100%" valign="top">
 
 ### 🔐 [Secure Web App — NGINX Reverse Proxy](https://github.com/bhanuaswanthsai/Secure-Web-App-Using-Nginx-Reverse-Proxy)
-**Defense-in-depth security architecture**
+**Defense-in-depth security architecture on a hardened Linux server**
 
-NGINX reverse proxy routing all HTTPS traffic to a Flask backend, SSL/TLS via OpenSSL, ports locked to 443/80 via FirewallD.
-
-- 🛡️ Network-layer firewall + transport-layer encryption + app-layer isolation
-- 🐧 Hardened Linux server configuration
+```
+🛡️ NGINX reverse proxy → Flask backend, SSL/TLS via OpenSSL
+🔒 Ports locked to 443/80 via FirewallD
+🐧 Network-layer + transport-layer + app-layer isolation
+```
 
 `Linux` `NGINX` `Flask` `OpenSSL` `FirewallD`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 Achievements
-- **Flipkart Grid 7.0** — Semifinalist among **50,000+** participants (2025)
-- **Odoo × Amalthea Hackathon** — Finalist, IIT Gandhinagar (3,000+ teams)
-- **RHCSA (EX200)** — Red Hat, Inc.
-- **Red Hat Containers** — Red Hat, Inc.
-- **300+ DSA problems** solved (GeeksforGeeks + LeetCode)
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-## 📊 GitHub Analytics
+## 🐍 Live Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanuaswanthsai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuaswanthsai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" alt="Top Languages" height="180"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhanuaswanthsai/bhanuaswanthsai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhanuaswanthsai/bhanuaswanthsai/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/bhanuaswanthsai/bhanuaswanthsai/output/github-snake.svg" width="100%"/>
+</picture>
+
+<sub>⚠️ This animates automatically once you add the included <code>snake.yml</code> GitHub Action workflow to your profile repo — see setup note below.</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+## 🌟 Momentum
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuaswanthsai&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuaswanthsai&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanuaswanthsai&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true" alt="Contribution Activity Graph" width="95%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanuaswanthsai&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bhanuaswanthsai&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhanuaswanthsai&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
----
-
-## 🔗 Connect With Me
+## 📡 Let's Connect
 
 <div align="center">
 
 <a href="mailto:bhanugayala@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/bhanuaswanthsai/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/bhanuaswanthsai" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.geeksforgeeks.org/user/bhanugl478/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=130&section=footer"/>
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/bhanuaswanthsai">Bhanu Aswanth Sai</a> — Let's build something amazing together! 🚀</i>
