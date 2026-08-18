@@ -4,10 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00F7F7&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineer;Full-Stack+MERN+Developer;RAG+%2F+AI+Pipeline+Builder;RHCSA+Certified+%E2%9C%85" alt="Typing SVG"/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="420"/>
+
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech%20CSE-SRM%20University%20AP-1F4E78?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GPA-8.83%2F10.0-2E7D32?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-39B54A?style=for-the-badge"/>
 
 <img src="https://komarev.com/ghpvc/?username=bhanuaswanthsai&label=Profile%20Views&color=1F4E78&style=flat-square"/>
@@ -15,6 +16,8 @@
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%"/>
 
 ## About Me
 
@@ -74,6 +77,30 @@ Real-time collaborative whiteboard supporting multi-user simultaneous drawing, s
 Defense-in-depth security architecture on a hardened Linux server: an NGINX reverse proxy routes all HTTPS traffic to a Flask backend, with SSL/TLS encryption via OpenSSL and port access restricted to 443/80 through FirewallD rules, combining network-layer, transport-layer, and application-layer security controls.
 
 `Linux` `NGINX` `Flask` `OpenSSL` `FirewallD`
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" width="220" align="right"/>
+
+## Live Contribution Snake
+
+A snake that eats through your actual GitHub contribution graph — it's not decoration, it's a real animation generated fresh every day from your commit history by a GitHub Action running inside your own repo.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhanuaswanthsai/bhanuaswanthsai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhanuaswanthsai/bhanuaswanthsai/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/bhanuaswanthsai/bhanuaswanthsai/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+**Setup (one-time, ~2 minutes):**
+1. Add the included `snake.yml` file to `.github/workflows/snake.yml` in your `bhanuaswanthsai/bhanuaswanthsai` repo
+2. Go to the **Actions** tab in that repo → find "Generate Snake Animation" → click **Run workflow** once, manually
+3. It pushes the generated animation to a new `output` branch — after that it refreshes automatically every day
+4. Until you do this, that image slot above will just show a broken-image icon — everything else on the page works regardless
 
 <br/>
 
